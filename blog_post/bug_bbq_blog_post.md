@@ -34,7 +34,7 @@ Where will this be? Join in from where you are: No need to go anywhere - if you'
 participate remotely, start by having a look at the milestones on the [website](http://billmills.github.io/SWC-bug-bbq/) 
 to see what tasks are still open, and send a pull request with your ideas to the 
 corresponding repo. If you'd like to get together with other people working on these 
-lessons live, we have created [this map](LINK_TO_MAP_ON_WEBSITE) for live sites that are 
+lessons live, we have created [this map](https://github.com/swcarpentry/SWC-bug-bbq/blob/gh-pages/sites.geojson) for live sites that are 
 being organized. And if there's no site listed near you, organize one yourself and let us 
 know you are doing that [here](https://github.com/BillMills/SWC-bug-bbq/issues) so that we 
 can add your site to the map!  	
