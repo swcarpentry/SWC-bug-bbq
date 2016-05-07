@@ -5,11 +5,11 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates":[-123.24997,49.26747]
+                "coordinates":[-123.255122,49.266618]
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://etherpad.wikimedia.org/swc-instructor-retreat-2015-vancouver'>Vancouver</a>"
+                "details": "<ul><li>Location: Koerner Library, Room K153, UBC</li><li>Time: 10A-4P</li></ul>"
             }
         }
     ]
