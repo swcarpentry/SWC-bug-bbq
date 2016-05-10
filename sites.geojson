@@ -23,6 +23,18 @@
                 "marker-color": "#2b3990",
                 "details": "<ul><li>Location: Loeb Building 7 Mbl St, Woods Hole, MA</li><li>Time: TBD</li></ul>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-68.196586, 44.366245]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<ul><li>Location: The Jackson Laboratory, 600 Main Street, Bar Harbor ME, Building 53 ERB 2519</li><li>Time: 1pm to 4pm EST</li></ul>"
+            }
         }
     ]
 }
