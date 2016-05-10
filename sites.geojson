@@ -11,6 +11,18 @@
                 "marker-color": "#2b3990",
                 "details": "<ul><li>Location: Koerner Library, Room K153, UBC</li><li>Time: 10A-4P</li></ul>"
             }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-70.672292, 41.525606]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<ul><li>Location: Loeb Building 7 Mbl St, Woods Hole, MA</li><li>Time: 10A-4P</li></ul>"
+            }
         }
     ]
 }
