@@ -47,6 +47,18 @@
                 "marker-color": "#2b3990",
                 "details": "<ul><li>Location: 7th floor UM School of Public Health I, 1415 Washington Heights, Ann Arbor, MI</li><li>Time: TBD</li></ul>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-2.809472, 56.340065]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<ul><li>Location: School of Computer Science, University of St Andrews, Room 1.04</li><li>Time: 10AM-4PM, lunchbreak 1PM-2PM</li></ul>"
+            }
         }
     ]
 }
