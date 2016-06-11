@@ -59,6 +59,19 @@
                 "marker-color": "#2b3990",
                 "details": "<ul><li>Location: School of Computer Science, University of St Andrews, Room 1.04</li><li>Time: 10AM-4PM, lunchbreak 1PM-2PM</li></ul>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[2.374022, 48.851667]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<ul><li>Location: EITN, 74 Rue du Faubourg Saint-Antoine, 75012 Paris, France</li><li>Time: 6PM-9PM</li></ul>"
+            }
         }
+        
     ]
 }
