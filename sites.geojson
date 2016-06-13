@@ -71,6 +71,18 @@
                 "marker-color": "#2b3990",
                 "details": "<ul><li>Location: EITN, 74 Rue du Faubourg Saint-Antoine, 75012 Paris, France</li><li>Time: 6PM-9PM</li></ul>"
             }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[-72.249347, 41.807956]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<ul><li>Torrey Life Sciences Building, Rm 363, Storrs, CT. 06269</li><li>Time: 10:30-13:30</li></ul>"
+            }
         }
         
     ]
